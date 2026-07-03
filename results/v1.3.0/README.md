@@ -138,4 +138,4 @@ vehicle 的瓶颈不只是“困难样本数量不足”，更可能来自以下
 
 ```text
 v1.2.0 → 主 Teacher 模型
-v1.3.0 → vehicle hard mining+Higher SHAI Overlap 消融实验 
+v1.3.0 → vehicle hard mining + higher sHAI overlap 消融实验 

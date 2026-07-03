@@ -1,4 +1,4 @@
-# v1.3.0 - Vehicle Hard Tile Mining 消融实验
+# v1.3.0 - Vehicle Hard Tile Mining+Higher SHAI Overlap 消融实验
 
 ## 一、版本定位 / Version Position
 
